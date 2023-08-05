@@ -1,0 +1,4 @@
+﻿Template,replace_text,eng,swe,nor,dan,fin
+Template1, **OVERVIEW$$ ,Key Figures,Översikt,Nøkkeltall,Overblik,Kaikkai
+Template1,**START DATE$$,Start Date,Start datum,Nor_Start Date,Dan_Start Date,Fin_Start Date
+Template1,**ARTICLES$$,Articles,Artiklar,Nor_Articles,Dan_Articles,Fin_Articles
